@@ -10,9 +10,15 @@
   
 * How to interact with an external API in wordpress: https://www.youtube.com/watch?v=LWM41Rcao3s
 
+* Wordpress REST API Tutorial: https://www.youtube.com/watch?v=rGObWtjxGBc
+  * Javascript in the theme can talk with Wordpress API directly.
+  * It enables us to use Wordpress as a API and develop our website using any existing mobile or website techniques. 
+  
+### Woocommerce
+
 * Woocommerce how to add products: https://www.youtube.com/watch?v=vdSrm4EN5Xk (time stamp available)
 
-
+* WooCommerce REST API Integration: https://www.youtube.com/watch?v=ESugG-wgNSI
 
 
 
