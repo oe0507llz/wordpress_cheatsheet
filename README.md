@@ -20,6 +20,7 @@
 
 * WooCommerce REST API Integration: https://www.youtube.com/watch?v=ESugG-wgNSI
 
+* How to Build a WordPress Theme from Scratch with WooCommerce: https://www.youtube.com/watch?v=TlmDsU8GirU
 
 
 
