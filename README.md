@@ -14,6 +14,11 @@
   * Javascript in the theme can talk with Wordpress API directly.
   * It enables us to use Wordpress as a API and develop our website using any existing mobile or website techniques. 
   
+* How to custom form database entry submit in wordpress: https://www.youtube.com/watch?v=AHpFQJk2rzs
+  * Form submission
+  * Form data saves into database
+  
+  
 ### Woocommerce
 
 * Woocommerce how to add products: https://www.youtube.com/watch?v=vdSrm4EN5Xk (time stamp available)
