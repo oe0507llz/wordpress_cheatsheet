@@ -5,6 +5,7 @@
 * Wordpress front-end development using Elementor: https://www.youtube.com/watch?v=a7Ec6wOUb48 (time stamp available)
 
 * Wordpress plugin development by Joshua Herbison: https://www.youtube.com/watch?v=mm9aQiLEa10&list=PLz-tsD7hAvuuvi9K6ukLdaSp9-T2I7xeV
+  * [Plugin basics and shortcode](https://www.youtube.com/watch?v=mm9aQiLEa10&list=PLz-tsD7hAvuuvi9K6ukLdaSp9-T2I7xeV&index=1)
   * Form creation and submission
   * Custom post type creation in the admin menu
   
