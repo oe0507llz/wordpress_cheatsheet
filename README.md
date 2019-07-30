@@ -28,5 +28,10 @@
 
 * How to Build a WordPress Theme from Scratch with WooCommerce: https://www.youtube.com/watch?v=TlmDsU8GirU
 
+* How To Use The Fedex Plugin With WooCommerce - WooCommerce Fedex Shipping Tutorial: https://www.youtube.com/watch?v=pU5D04agO6c
+  * How to sign up on Fedex for SOAP Web Services, such as account number, authentication key and meter number
+  * How you can use real time rates from fedex and apply it on your woocommerce website. Unfortunately the basic version of this plugin is no longer free to download.
+  * The premium version of this plugin will allow you to print shipping labels and return labels. In addition, the premium version can give your customers tracking information on their shipment to let them know where the product is.
+
 
 
