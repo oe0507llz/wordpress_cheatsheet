@@ -19,6 +19,8 @@
   * Form submission
   * Form data saves into database
   
+* Custom Registration/Sign Up Page Without Using a Plugin: https://www.youtube.com/watch?v=LTNUSb_5zA8
+  
   
 ### Woocommerce
 
