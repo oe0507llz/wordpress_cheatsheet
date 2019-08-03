@@ -21,6 +21,9 @@
   
 * Custom Registration/Sign Up Page Without Using a Plugin: https://www.youtube.com/watch?v=LTNUSb_5zA8
   
+* Build a Useful Wordpress Widget Plugin: https://www.youtube.com/watch?v=eZn3tfF5GFM
+
+* What After Creating a WordPress Website? https://www.youtube.com/playlist?list=PLjR7HjmPoicF73YaZ5nSVCPWWn_Yg-98B
   
 ### Woocommerce
 
@@ -34,6 +37,10 @@
   * How to sign up on Fedex for SOAP Web Services, such as account number, authentication key and meter number
   * How you can use real time rates from fedex and apply it on your woocommerce website. Unfortunately the basic version of this plugin is no longer free to download.
   * The premium version of this plugin will allow you to print shipping labels and return labels. In addition, the premium version can give your customers tracking information on their shipment to let them know where the product is.
+  
+* How to Make an Affiliate Price Comparison Website with Woocommerce, ReHub & Content Egg: https://www.youtube.com/watch?v=_UhcL0EH1DY
+
+
 
 
 
