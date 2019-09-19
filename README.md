@@ -24,6 +24,11 @@
 * Build a Useful Wordpress Widget Plugin: https://www.youtube.com/watch?v=eZn3tfF5GFM
 
 * What After Creating a WordPress Website? https://www.youtube.com/playlist?list=PLjR7HjmPoicF73YaZ5nSVCPWWn_Yg-98B
+
+* How to Setup CloudFlare Flexible SSL for WordPress? https://jonnyjordan.com/blog/how-to-setup-cloudflare-flexible-ssl-for-wordpress/
+  * CloudFlare Flexible SSL Plugin
+  * WordPress HTTPS (SSL)
+
   
 ### Woocommerce
 
