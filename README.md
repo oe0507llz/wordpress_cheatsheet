@@ -29,6 +29,7 @@
   * CloudFlare Flexible SSL Plugin
   * WordPress HTTPS (SSL)
 
+* Publish at WordPress.org: https://www.youtube.com/watch?v=UWp3G3FuHO4&list=PLtaXuX0nEZk_MdFQAlp7v6N3TwEJUeuHq
   
 ### Woocommerce
 
