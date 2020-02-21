@@ -8,6 +8,9 @@
 https://www.youtube.com/watch?v=3v-2Atv_gfs
 https://www.youtube.com/watch?v=bjRkrCbfwjY
 
+#### What is the Best Page Builder for WordPress? A Comprehensive Review
+https://www.youtube.com/watch?v=XBolTCfARdc
+
 #### Wordpress plugin development by Joshua Herbison: https://www.youtube.com/watch?v=mm9aQiLEa10&list=PLz-tsD7hAvuuvi9K6ukLdaSp9-T2I7xeV
   * [Plugin basics and shortcode](https://www.youtube.com/watch?v=mm9aQiLEa10&list=PLz-tsD7hAvuuvi9K6ukLdaSp9-T2I7xeV&index=1)
   * Form creation and submission
@@ -32,6 +35,10 @@ https://www.youtube.com/watch?v=bjRkrCbfwjY
 #### How to Setup CloudFlare Flexible SSL for WordPress? https://jonnyjordan.com/blog/how-to-setup-cloudflare-flexible-ssl-for-wordpress/
   * CloudFlare Flexible SSL Plugin
   * WordPress HTTPS (SSL)
+  
+#### WordPress SEO Tactics
+https://www.youtube.com/watch?v=8DyPiUfBsbE&list=PLaBBJrLrje4s-h6CYW4horSTz8fMZCbCo
+  
 
 #### Publish at WordPress.org: https://www.youtube.com/watch?v=UWp3G3FuHO4&list=PLtaXuX0nEZk_MdFQAlp7v6N3TwEJUeuHq
   
