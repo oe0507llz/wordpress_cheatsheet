@@ -38,6 +38,9 @@ https://www.youtube.com/watch?v=XBolTCfARdc
   
 #### WordPress SEO Tactics
 https://www.youtube.com/watch?v=8DyPiUfBsbE&list=PLaBBJrLrje4s-h6CYW4horSTz8fMZCbCo
+
+#### Use WPeMatico for autoblog Wordpress
+https://www.youtube.com/watch?time_continue=1178&v=N9wuKSbp1AE&feature=emb_logo
   
 
 #### Publish at WordPress.org: https://www.youtube.com/watch?v=UWp3G3FuHO4&list=PLtaXuX0nEZk_MdFQAlp7v6N3TwEJUeuHq
