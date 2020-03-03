@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=XBolTCfARdc
   * Javascript in the theme can talk with Wordpress API directly.
   * It enables us to use Wordpress as a API and develop our website using any existing mobile or website techniques. 
   
+#### Wordpress REST API with PYTHON: https://www.youtube.com/watch?v=AS6EPzDyjhA
+  
 #### How to custom form database entry submit in wordpress: https://www.youtube.com/watch?v=AHpFQJk2rzs
   * Form submission
   * Form data saves into database
@@ -44,6 +46,7 @@ https://www.youtube.com/watch?time_continue=1178&v=N9wuKSbp1AE&feature=emb_logo
   
 
 #### Publish at WordPress.org: https://www.youtube.com/watch?v=UWp3G3FuHO4&list=PLtaXuX0nEZk_MdFQAlp7v6N3TwEJUeuHq
+  
   
 ### Woocommerce
 
