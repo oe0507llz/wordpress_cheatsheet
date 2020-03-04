@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=XBolTCfARdc
   * Form creation and submission
   * Custom post type creation in the admin menu
   
+#### WordPress Plugins Development Tutorials by Alessandro Castellani: https://www.youtube.com/playlist?list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2
+  
 #### How to interact with an external API in wordpress: https://www.youtube.com/watch?v=LWM41Rcao3s
 
 #### Wordpress REST API Tutorial: https://www.youtube.com/watch?v=rGObWtjxGBc
