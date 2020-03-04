@@ -48,6 +48,10 @@ https://www.youtube.com/watch?time_continue=1178&v=N9wuKSbp1AE&feature=emb_logo
   
 
 #### Publish at WordPress.org: https://www.youtube.com/watch?v=UWp3G3FuHO4&list=PLtaXuX0nEZk_MdFQAlp7v6N3TwEJUeuHq
+
+#### Programmatically Create a Post in WordPress
+https://tommcfarlin.com/programmatically-create-a-post-in-wordpress/
+https://developer.wordpress.org/reference/functions/wp_insert_post/
   
   
 ### Woocommerce
