@@ -5,7 +5,7 @@
 #### Wordpress front-end development using Elementor: https://www.youtube.com/watch?v=a7Ec6wOUb48 (time stamp available)
 
 #### SiteOrigin Page Builder - How to use SiteOrigin Page Builder to build a WordPress Website
-https://www.youtube.com/watch?v=3v-2Atv_gfs
+https://www.youtube.com/watch?v=3v-2Atv_gfs <br>
 https://www.youtube.com/watch?v=bjRkrCbfwjY
 
 #### What is the Best Page Builder for WordPress? A Comprehensive Review
