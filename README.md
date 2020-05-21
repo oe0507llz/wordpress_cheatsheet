@@ -52,9 +52,15 @@ https://www.youtube.com/watch?time_continue=1178&v=N9wuKSbp1AE&feature=emb_logo
 #### Programmatically Create a Post in WordPress
 https://tommcfarlin.com/programmatically-create-a-post-in-wordpress/
 https://developer.wordpress.org/reference/functions/wp_insert_post/
+
+#### Bitnami Connect To PhpMyAdmin
+https://docs.bitnami.com/virtual-machine/faq/get-started/access-phpmyadmin/
+
+#### ADD A WORDPRESS ADMIN USER WITH PHPMYADMIN
+https://wpengine.com/support/add-admin-user-phpmyadmin/
   
   
-### Woocommerce
+## Woocommerce
 
 #### Woocommerce how to add products: https://www.youtube.com/watch?v=vdSrm4EN5Xk (time stamp available)
 
